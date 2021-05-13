@@ -8,7 +8,7 @@
   <li> Website administrator that has control over what content is displayed. For example, admin has the ability 
       to edit news article, add new news articles, and is also able to delete the articles. Then the content is 
       updated in real time and displayed to the user.
-  </li>
+  <li> Technologies used: NodeJS (server-side), ExpressJS (middleware), Angular (Client Application), MongoDB (Database)</li>
  </ul>
  
  
